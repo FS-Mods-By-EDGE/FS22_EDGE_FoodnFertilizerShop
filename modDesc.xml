@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="51">
+    <author>EDGE Gaming</author>
+    <translationby>Castiga</translationby>
+    <version>2.0.0.0</version>
+    <iconFilename>icon.dds</iconFilename>
+	<title><!-- en=English de=German fr=French es=Spanish ru=Russian pl=Polish it=Italian br=Brazilian-Portuguese cs=Chinese(Simplified) ct=Chinese(Traditional) cz=Czech nl=Netherlands hu=Hungary jp=Japanese kr=Korean pt=Portuguese ro=Romanian tr=Turkish -->
+        <en>Food 'N' Fertilizer Shop</en>
+        <de>Futter- Und Düngerhandel</de>
+        <fr>Magasin D'Alimentation Et D'Engrais</fr>
+        <es>Tienda De Alimentos Y Fertilizantes</es>
+        <ru>Магазин Продуктов Питания И Удобрений</ru>
+        <pl>Sklep Z Żywnością I Nawozami</pl>
+        <it>Negozio Di Fertilizzanti</it>
+    </title>
+    <description>
+        <en><![CDATA[Here you can buy fertilizer of any kind (Manure and slurry excluded), seeds and food for all your animals.
+The delivery costs are +10% on current price.
+It's fitted with Automatic Lighting.
+
+Price: 25.000€
+Size: 21 x 11 Meters
+
+-The Buildings supports "Seasons", "Courseplay Six" & "MaizePlus".
+
+-If you find any bugs or got suggestions for improvment, please dont hesitate to contact us on our Github page at https://github.com/FS19-Mods-By-EDGE/
+or Contact EDGEPureGaming on facebook.
+
+Note: If you have it placed on your map you need to buy it again or fix it by changing the info in FarmingSimulator2019/savegame§§/items.xml. (§§ = Savegame number)
+-from: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-to: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Changelog 1.0.0.0:
+- Initial Realease.
+Changelog 1.5.0.0:
+- Added L10N functions and name so it's more understandable for all people, this was previously just in english.
+- Updated the mod with more languages.
+- Created new Decal textures & added shaders to the building
+- Added node for Interactive Zone Markers (Warningstripes can now be turned on and off)
+- Created "Seasons" mask support
+Changelog 2.0.0.0:
+- Seems we forgot sheep food, so we added hay to filltypes.
+- Updated to support Seasons mod better.
+- Added button for warning stripes, these can now be turned off without using the UI.
+- Added support for some mod Filltypes.
+- Added support for MaizePlus.
+- Added Italian translation.]]></en>
+        <de><![CDATA[Hier kann jede Art von Dünger (Mist und Gülle ausgeschlossen), sowie jede Art von Futter für Ihre Tiere gekauft werden.
+Die Zustellung kostet 10% extra.
+Die Gebäude verfügen über eine automatische Beleuchtung.
+
+Preis: 25.000€
+Größe: 21 x 11 Meter
+
+-Die Gebäude unterstützen "Seasons", "Courseplay Six" und "MaizePlus".
+
+-Wenn Sie Fehler finden oder Verbesserungsvorschläge haben, zögern Sie bitte nicht, uns auf unserer Github-Seite unter https://github.com/FS19-Mods-By-EDGE/
+zu kontaktieren oder EDGEPureGaming auf Facebook zu kontaktieren.
+
+Hinweis: Wenn Sie es auf Ihrer Karte platziert haben, müssen Sie es erneut kaufen oder durch Ändern der Informationen in FarmingSimulator2019/savegame§§/items.xml. (§§ = Savegame-Nummer) reparieren.
+-von: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-zu: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Änderungsprotokoll 1.0.0.0:
+- Erstveröffentlichung.
+Änderungsprotokoll 1.5.0.0:
+- Es wurden L10N-Funktionen und -Namen hinzugefügt, damit es für alle verständlicher ist. Dies war bisher nur in Englisch.
+- Der Mod wurde mit mehr Sprachen aktualisiert.
+- Neue Decal-Texturen erstellt und dem Gebäude Shader hinzugefügt.
+- Knoten für interaktive Zonenmarkierungen hinzugefügt (Warnstreifen können jetzt ein- und ausgeschaltet werden).
+- Maskenunterstützung für "Seasons" erstellt
+Änderungsprotokoll 2.0.0.0:
+- Scheint, als hätten wir Schafsfutter vergessen, also haben wir den Füllarten Heu hinzugefügt.
+- Aktualisiert, um den Seasons Mod besser zu unterstützen.
+- Schaltfläche für Warnstreifen hinzugefügt, diese können jetzt ohne Verwendung der Benutzeroberfläche deaktiviert werden.
+- Unterstützung für einige Mod-Fülltypen hinzugefügt.
+- Unterstützung für MaizePlus hinzugefügt.
+- Italienische Übersetzung hinzugefügt.]]></de>
+        <fr><![CDATA[Ici, vous pouvez acheter des engrais de toutes sortes (à l'exclusion du fumier et du lisier), des semences et de la nourriture pour tous vos animaux.
+La livraison prend 10% sur le dessus.
+Les bâtiments ont un éclairage automatique.
+
+Prix: 25.000 €
+Taille: 21 x 11 mètres
+
+-Les bâtiments prennent en charge "Seasons", "Courseplay Six" et "MaizePlus".
+
+-Si vous trouvez des bugs ou avez des suggestions d'amélioration, n'hésitez pas à nous contacter sur notre page Github à https://github.com/FS19-Mods-By-EDGE/
+ou Contacter EDGEPureGaming sur facebook.
+
+Remarque: Si vous l'avez placé sur votre carte, vous devez l'acheter à nouveau ou le corriger en modifiant les informations dans FarmingSimulator2019/savegame§§/items.xml. (§§ = numéro de sauvegarde)
+-de: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-à: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Changer le journal 1.0.0.0:
+- Première version.
+Changer le journal 1.5.0.0:
+- Ajout des fonctions et du nom de la L10N pour que ce soit plus compréhensible pour tout le monde, c'était avant tout en anglais.
+- Mise à jour du mod avec plus de langues.
+- Création de nouvelles textures de décalques et ajout de shaders au bâtiment.
+- Ajout d’un nœud pour les marqueurs de zone interactifs (les bandes d’avertissement peuvent maintenant être activées et désactivées).
+- Création du support de masque "Seasons"
+Changer le journal 2.0.0.0:
+- Il semble que nous ayons oublié la nourriture des moutons, nous avons donc ajouté du foin aux types de remplissage.
+- Mise à jour pour mieux prendre en charge le mod Seasons.
+- Bouton ajouté pour les bandes d'avertissement, celles-ci peuvent maintenant être désactivées sans utiliser l'interface utilisateur.
+- Ajout de la prise en charge de certains mod Filltypes.
+- Ajout de la prise en charge de MaizePlus.
+- Ajout de la traduction italienne.]]></fr>
+        <es><![CDATA[Aquí puede comprar fertilizantes de cualquier tipo (excepto estiércol y purín), semillas y alimentos para todos sus animales.
+La entrega lleva el 10% por encima.
+Los edificios tienen iluminación automática.
+
+Precio: 25.000€
+Tamaño: 21 x 11 Metros
+
+-Los edificios son compatibles con "Seasons", "Courseplay Six" y "MaizePlus".
+
+-Si encuentra algún error u obtiene sugerencias de mejora, no dude en contactarnos en nuestra página de Github en https://github.com/FS19-Mods-By-EDGE/
+o póngase en contacto con EDGEPureGaming en Facebook.
+
+Nota: Si lo tiene colocado en su mapa, debe comprarlo nuevamente o arreglarlo cambiando la información en FarmingSimulator2019/savegame§§/items.xml. (§§ = número de juego guardado)
+-desde: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-a: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Registro de cambios 1.0.0.0:
+- Versión inicial.
+Registro de cambios 1.5.0.0:
+- Se agregaron las funciones y el nombre de la L10N, por lo que es más comprensible para todas las personas, esto fue antes en inglés.
+- Actualizado el mod con más idiomas.
+- Se crearon nuevas texturas de calcomanías y se agregaron sombreadores al edificio.
+- Nodo agregado para marcadores de zona interactivos (ahora las franjas de advertencia se pueden activar y desactivar).
+- Creado el soporte de máscara "Estaciones"
+Registro de cambios 2.0.0.0:
+Parece que olvidamos la comida de las ovejas, así que agregamos heno a los tipos de relleno.
+- Actualizado para admitir mejor el mod Seasons.
+- Botón agregado para franjas de advertencia, ahora se pueden desactivar sin usar la interfaz de usuario.
+- Se agregó soporte para algunos tipos de relleno mod.
+- Se agregó soporte para MaizePlus.
+- Añadida traducción al italiano.]]></es>
+        <ru><![CDATA[Здесь вы можете купить удобрения любого вида (за исключением навоза и навозной жижи), семена и корм для всех ваших животных.
+Доставка занимает 10% сверху.
+Здания имеют автоматическое освещение.
+
+Цена: 25.000€
+Размер: 21 x 11 Mетра
+
+- Постройки поддерживает «Seasons», «Courseplay Six» и «MaizePlus».
+
+-Если вы обнаружите какие-либо ошибки или получите предложения по улучшению, пожалуйста, не стесняйтесь связаться с нами на нашей странице Github по адресу https://github.com/FS19-Mods-By-EDGE/
+или связаться с EDGEPureGaming на Facebook.
+
+Примечание. Если он размещен на вашей карте, его необходимо купить снова или исправить, изменив информацию в FarmingSimulator2019/savegame§§/items.xml. (§§ = номер сохраненной игры)
+-от: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-в: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Изменения 1.0.0.0:
+- Первый выпуск.
+Изменения 1.5.0.0:
+- Добавлены функции и имя L10N, чтобы оно было более понятным для всех, это было сделано только на английском языке.
+- Обновлен мод с большим количеством языков.
+- Созданы новые текстуры Decal и добавлены шейдеры в здание.
+- Добавлен узел для маркеров интерактивной зоны (теперь можно включать и выключать предупреждающие полосы).
+- Создана поддержка маски "Времена года"
+Журнал изменений 2.0.0.0:
+- Кажется, мы забыли корм для овец, поэтому мы добавили сено к типам.
+- Обновлен для поддержки мод Seasons лучше.
+- Добавлена кнопка для предупреждающих полос, теперь они могут быть отключены без использования пользовательского интерфейса.
+- Добавлена поддержка некоторых модов Filltypes.
+- Добавлена поддержка MaizePlus.
+- Добавлен итальянский перевод.]]></ru>
+        <pl><![CDATA[Tutaj możesz kupić dowolny nawóz (z wyłączeniem obornika i gnojowicy), nasiona i pokarm dla wszystkich swoich zwierząt.
+Dostawa zajmuje 10%.
+Budynki mają automatyczne oświetlenie.
+
+Cena: 25.000€
+Rozmiar: 21 x 11 Metrów
+
+- Budynki obsługują „Seasons”, „Courseplay Six” i „MaizePlus”.
+
+-Jeśli znajdziesz jakieś błędy lub masz sugestie dotyczące ulepszeń, nie wahaj się skontaktować z nami na naszej stronie Github pod adresem https://github.com/FS19-Mods-By-EDGE/
+lub Skontaktuj się z EDGEPureGaming na Facebooku.
+
+Uwaga: jeśli umieściłeś go na mapie, musisz go kupić ponownie lub naprawić, zmieniając informacje w FarmingSimulator2019/savegame§§/items.xml. (§§ = numer zapisanej gry)
+-od: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-do: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Dziennik zmian 1.0.0.0:
+- Pierwsze wydanie.
+Dziennik zmian 1.5.0.0:
+- Dodano funkcje i nazwę L10N, więc jest to bardziej zrozumiałe dla wszystkich ludzi, było to głównie po angielsku.
+- Zaktualizowałem mod z większą liczbą języków.
+- Utworzono nowe tekstury naklejek i dodano shadery do budynku.
+- Dodano węzeł dla interaktywnych znaczników stref (paski ostrzegawcze można teraz włączać i wyłączać).
+- Utworzono obsługę maski „Pory roku”
+Dziennik zmian 2.0.0.0:
+- Wygląda na to, że zapomnieliśmy o owcach, dlatego dodaliśmy siano do rodzajów wypełnień.
+- Zaktualizowano, aby lepiej obsługiwał modyfikację Seasons.
+- Dodano przycisk pasków ostrzegawczych, które można teraz wyłączyć bez użycia interfejsu użytkownika.
+- Dodano wsparcie dla niektórych modów Filltypes.
+- Dodano obsługę MaizePlus.
+- Dodano tłumaczenie na włoski.]]></pl>
+        <it><![CDATA[Qui puoi acquistare fertilizzanti di qualsiasi tipo (letame e liquame esclusi), semi e cibo per tutti i tuoi animali.
+Le spese di spedizione sono del + 10% sul prezzo attuale.
+È dotato di illuminazione automatica.
+
+Prezzo: 25.000 €
+Dimensioni: 21 x 11 metri
+
+-Gli edifici supportano "Seasons", "Courseplay Six" e "MaizePlus".
+
+-Se trovi qualche bug o hai suggerimenti per l'improvvisazione, non esitare a contattarci sulla nostra pagina Github all'indirizzo https://github.com/FS19-Mods-By-EDGE/
+o Contatta EDGEPureGaming su Facebook.
+
+Nota: se l'hai posizionato sulla tua mappa, devi acquistarlo di nuovo o correggerlo modificando le informazioni in FarmingSimulator2019/savegame§§/items.xml. (§§ = numero savegame)
+-a partire dal: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"
+-per: modName="FS19_EDGE_Food_n_Fertilizer_Shop" filename="$moddir$FS19_EDGE_Food_n_Fertilizer_Shop/data/FoodFertilizerShop.xml"
+
+Elenco modifiche 1.0.0.0:
+- Realease iniziale.
+Elenco modifiche 1.5.0.0:
+- Aggiunte funzioni e nome L10N, quindi è più comprensibile per tutte le persone, in precedenza era solo in inglese.
+- Aggiornato il mod con più lingue.
+- Creato nuove trame di decalcomanie e aggiunto shader all'edificio
+- Aggiunto nodo per gli indicatori interattivi di zona (ora è possibile attivare e disattivare le strisce di avvertimento)
+- Creazione del supporto maschera "Stagioni"
+Elenco modifiche 2.0.0.0:
+- Sembra che abbiamo dimenticato il cibo per pecore, quindi abbiamo aggiunto fieno ai filltypes.
+- Aggiornato per supportare meglio la mod di Seasons.
+- Aggiunto il pulsante per le strisce di avvertimento, che ora possono essere disattivate senza usare l'interfaccia utente.
+- Aggiunto il supporto per alcuni Filltype mod.
+- Aggiunto il supporto per MaizePlus.
+- Aggiunta la traduzione italiana.]]></it>
+    </description>
+    <multiplayer supported="true"/>
+    <storeItems>
+        <storeItem rootNode="placeable" xmlFilename="data/FoodFertilizerShop.xml"/>
+    </storeItems>
+    <brands>
+        <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
+    </brands>
+    <l10n>
+        <!-- multifillingstation -->
+        <text name="name_EDGEFNF">
+            <en>Food 'n' Fertilizer Shop</en>
+            <de>Futter- und Düngerhandel</de>
+            <fr>Magasin D'Alimentation Et D'Engrais</fr>
+            <es>Tienda De Alimentos Y Fertilizantes</es>
+            <ru>Магазин продуктов питания и удобрений</ru>
+            <pl>Sklep z żywnością i nawozami</pl>
+            <it>Negozio di fertilizzanti</it>
+        </text>
+        <text name="EDGEFNFFull">
+            <en>EDGE Food 'n' Fertilizer</en>
+            <de>EDGE Futter- Und Düngerhandel</de>
+            <fr>EDGE Magasin D'Alimentation Et D'Engrais</fr>
+            <es>EDGE Tienda De Alimentos Y Fertilizantes</es>
+            <ru>EDGE Магазин продуктов питания и удобрений</ru>
+            <pl>EDGE Sklep z żywnością i nawozami</pl>
+            <it>EDGE Negozio di fertilizzanti</it>
+        </text>
+        <text name="function_EDGEFNF">
+            <en>Here you can buy any type of fertilizer (Manure Excluded), As well as food for your animals. the delivery people take 10%.</en>
+            <de>Hier können Sie jede Art von Dünger sowie Futter für Ihre Tiere kaufen. Die Zusteller nehmen 10%.</de>
+            <fr>Ici vous pouvez acheter n'importe quel type d'engrais (fumier exclu), ainsi que de la nourriture pour vos animaux les livreurs prennent 10%.</fr>
+            <es>Aquí puede comprar fertilizantes de cualquier tipo (excepto estiércol y purín), semillas y alimentos para todos sus animales. La entrega lleva el 10% por encima.</es>
+            <ru>Здесь вы можете купить удобрения любого вида (за исключением навоза и навозной жижи), семена и корм для всех ваших животных. Доставка занимает 10% сверху.</ru>
+            <pl>Tutaj możesz kupić dowolny nawóz (z wyłączeniem obornika i gnojowicy), nasiona i pokarm dla wszystkich swoich zwierząt. Dostawa zajmuje 10%.</pl>
+            <it>Qui puoi acquistare qualsiasi tipo di fertilizzante (letame escluso), così come cibo per i tuoi animali. la gente della consegna prende il 10%.</it>
+        </text>
+        <text name="function_EDGELights">
+            <en>This Building have Automatic Lighting.</en>
+            <de>Dieses Gebäude verfügt über eine automatische Beleuchtung.</de>
+            <fr>Ce bâtiment a l'éclairage automatique.</fr>
+            <es>Este edificio tiene iluminación automática.</es>
+            <ru>Это здание имеет автоматическое освещение.</ru>
+            <pl>Ten budynek ma automatyczne oświetlenie.</pl>
+            <it>Questo edificio ha l'illuminazione automatica.</it>
+        </text>
+        <text name="action_turnOnMarking">
+            <en>Show warning Stripes</en>
+            <de>Eckmarkierungen einblenden</de>
+            <fr>Afficher les rayures d'avertissement</fr>
+            <es>Mostrar franjas de advertencia</es>
+            <ru>Показать предупреждение полосы</ru>
+            <pl>Pokaż paski ostrzegawcze</pl>
+            <it>Mostra strisce di avviso</it>
+        </text>
+        <text name="action_turnOffMarking">
+            <en>Hide warning Stripes</en>
+            <de>Eckmarkierungen ausblenden</de>
+            <fr>Masquer les bandes d'avertissement</fr>
+            <es>Ocultar rayas de advertencia</es>
+            <ru>Скрыть предупреждение полосы</ru>
+            <pl>Ukryj paski ostrzegawcze</pl>
+            <it>Nascondi le strisce di avvertimento</it>
+        </text>
+    </l10n>
+</modDesc>
